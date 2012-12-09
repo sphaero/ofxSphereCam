@@ -33,8 +33,6 @@ public:
     void randomPosS();
     void axis();
             
-private:
-    
     ofxTween posTween;
     ofxTween lookAtTween;
     ofxEasingQuad easingquad;
